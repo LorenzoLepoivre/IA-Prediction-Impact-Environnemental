@@ -2,7 +2,7 @@
 
 ## Description
 
-Cette IA a pour but de prédire l'impact sur le changement climatique (CO2 équivalent) d'un produit alimentaire. Le projet utilise des données de l'ADEME (Agribalyse 3.1) pour entraîner différents modèles de régression linéaire. Il a été réalisé pour mettre en pratique mes apprentissages en Machine Learning.
+Cette IA a pour but de prédire l'impact sur le changement climatique (CO2 équivalent) d'un produit alimentaire. Le projet utilise des données de l'ADEME (Agribalyse 3.1) pour entraîner différents modèles de régression linéaire. Elle a été réalisée pour mettre en pratique mes apprentissages en Machine Learning.
 
 ## Données
 
